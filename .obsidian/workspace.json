@@ -4,55 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "461f7ff45a484280",
+        "id": "35e7ebb1a63af672",
         "type": "tabs",
         "children": [
           {
-            "id": "712fef6cc7711818",
+            "id": "c5686854385141eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P001.md",
+                "file": "P015.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5ac081f8eb9b5a9",
+            "id": "169726f5bde1ef69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P002.md",
+                "file": "P016.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc6936f52d757a04",
+            "id": "b62a0a3bced9162a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P003.md",
+                "file": "P017.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5ee5cfb13c3564e",
+            "id": "88c99cad75aba768",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P004.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -101,8 +97,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5258dc9d4b327835",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -122,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P004.md",
+                "file": "P015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P004.md",
+                "file": "P015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P004.md"
+                "file": "P015.md"
               }
             }
           }
@@ -183,11 +188,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5ee5cfb13c3564e",
+  "active": "88c99cad75aba768",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "P004.md",
+    "P007.md",
+    "P005.md",
     "P003.md",
     "P002.md",
     "P001.md",
-    "P004.md"
+    "P009.md",
+    "P015.md",
+    "P016.md",
+    "P017.md",
+    "P018.md",
+    "Test.md",
+    "Vault.md",
+    "testing/ahihi do ngoc.md",
+    "testing",
+    "Spaces/Home/Home.md",
+    "Spring Test/Spaces/Home/aaa.md",
+    "Spring Test/Spring Test.md",
+    "Spring Test",
+    "P011.md",
+    "P012.md",
+    "P013.md",
+    "P014.md",
+    "Spring Test/Spaces/Home/Home.md",
+    "Spring Test/Spaces/Spaces.md",
+    "Core Technologies/Core Technologies.md",
+    "Core Technologies",
+    "P006.md",
+    "Spring Test/Spaces/Home",
+    "Spring Test/Spaces"
   ]
 }
